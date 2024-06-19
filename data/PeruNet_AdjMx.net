@@ -1,0 +1,174 @@
+*vertices 37
+1 Romero 0.0 0.0 ellipse
+2 Graña 0.0 0.0 ellipse
+3 "Miro Quesada" 0.0 0.0 ellipse
+4 Moreyra 0.0 0.0 ellipse
+5 Fort 0.0 0.0 ellipse
+6 "De La Puente" 0.0 0.0 ellipse
+7 Wiese 0.0 0.0 ellipse
+8 Onrubia 0.0 0.0 ellipse
+9 Brescia 0.0 0.0 ellipse
+10 Nicolini 0.0 0.0 ellipse
+11 Montero 0.0 0.0 ellipse
+12 Picaso 0.0 0.0 ellipse
+13 Bentin 0.0 0.0 ellipse
+14 Benavides 0.0 0.0 ellipse
+15 Bustamante 0.0 0.0 ellipse
+16 "Woodman Pollit" 0.0 0.0 ellipse
+17 Raffo 0.0 0.0 ellipse
+18 Piazza 0.0 0.0 ellipse
+19 Berckemeyer 0.0 0.0 ellipse
+20 "Llosa Barber" 0.0 0.0 ellipse
+21 "Beoutis Ledesma" 0.0 0.0 ellipse
+22 "Rizo Patron" 0.0 0.0 ellipse
+23 Montori 0.0 0.0 ellipse
+24 Sotomayor 0.0 0.0 ellipse
+25 Cilloniz 0.0 0.0 ellipse
+26 Ferreyros 0.0 0.0 ellipse
+27 Michell 0.0 0.0 ellipse
+28 "Wong Lu" 0.0 0.0 ellipse
+29 "Batievsky Spack" 0.0 0.0 ellipse
+30 "Matos Escalada" 0.0 0.0 ellipse
+31 Galsky 0.0 0.0 ellipse
+32 Lucioni 0.0 0.0 ellipse
+33 "Rodriguez Rodríguez" 0.0 0.0 ellipse
+34 Custer 0.0 0.0 ellipse
+35 Ikeda 0.0 0.0 ellipse
+36 Cogorno 0.0 0.0 ellipse
+37 "Arias Davila" 0.0 0.0 ellipse
+*edges
+1 2 1
+1 3 1
+1 4 1
+1 5 1
+1 6 1
+1 8 1
+1 9 1
+1 10 1
+1 13 1
+1 14 1
+1 15 1
+1 16 1
+1 17 1
+1 18 1
+1 19 1
+1 20 1
+1 22 1
+1 23 1
+2 3 1
+2 5 1
+2 6 1
+2 7 1
+2 11 1
+2 14 1
+2 15 1
+2 18 1
+2 21 1
+2 27 1
+3 5 1
+3 6 1
+3 7 1
+3 11 1
+3 14 1
+3 15 1
+3 18 1
+3 21 1
+3 27 1
+4 5 1
+4 6 1
+4 7 1
+4 8 1
+4 9 1
+4 11 1
+4 12 1
+4 13 1
+4 15 1
+4 17 1
+4 19 1
+4 22 1
+4 23 1
+4 24 1
+5 6 1
+5 8 1
+5 9 1
+5 10 1
+5 12 1
+5 13 1
+5 14 1
+5 15 1
+5 16 1
+5 17 1
+5 18 1
+5 20 1
+5 21 1
+5 24 1
+5 25 1
+6 7 1
+6 11 1
+6 14 1
+6 15 1
+6 18 1
+6 19 1
+6 21 1
+6 22 1
+6 24 1
+7 11 1
+7 19 1
+7 21 1
+7 22 1
+7 24 1
+8 9 1
+8 10 1
+8 13 1
+8 16 1
+8 17 1
+8 19 1
+8 20 1
+8 23 1
+9 13 1
+9 17 1
+9 19 1
+9 23 1
+10 13 1
+10 16 1
+10 17 1
+10 20 1
+10 22 1
+11 12 1
+11 15 1
+11 21 1
+11 26 1
+12 15 1
+12 24 1
+12 25 1
+13 16 1
+13 17 1
+13 19 1
+13 20 1
+13 23 1
+13 26 1
+13 28 1
+14 15 1
+14 18 1
+15 18 1
+15 23 1
+15 25 1
+15 26 1
+16 17 1
+16 19 1
+16 20 1
+17 19 1
+17 20 1
+17 23 1
+18 20 1
+18 21 1
+19 20 1
+19 22 1
+19 23 1
+19 24 1
+20 21 1
+22 24 1
+23 25 1
+24 25 1
+29 30 1
+29 31 1
